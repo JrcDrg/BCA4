@@ -1,0 +1,52 @@
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\PracticeMySql.exe
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\PracticeMySql.deps.json
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\PracticeMySql.runtimeconfig.json
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\PracticeMySql.dll
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\PracticeMySql.pdb
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\ZstdNet.dll
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.csproj.AssemblyReference.cache
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.Form1.resources
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.csproj.GenerateResource.cache
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.GeneratedMSBuildEditorConfig.editorconfig
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.AssemblyInfoInputs.cache
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.AssemblyInfo.cs
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.csproj.CoreCompileInputs.cache
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.csproj.CopyComplete
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.dll
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\refint\PracticeMySql.dll
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.pdb
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.genruntimeconfig.cache
+E:\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\ref\PracticeMySql.dll
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.csproj.AssemblyReference.cache
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.Form1.resources
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.csproj.GenerateResource.cache
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.GeneratedMSBuildEditorConfig.editorconfig
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.AssemblyInfoInputs.cache
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.AssemblyInfo.cs
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.csproj.CoreCompileInputs.cache
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.dll
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\refint\PracticeMySql.dll
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.pdb
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\PracticeMySql.exe
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\PracticeMySql.deps.json
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\PracticeMySql.runtimeconfig.json
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\PracticeMySql.dll
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\PracticeMySql.pdb
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\Google.Protobuf.dll
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\MySql.Data.dll
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\ZstdNet.dll
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.csproj.CopyComplete
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\PracticeMySql.genruntimeconfig.cache
+F:\E drive Backup\SuperMarket Application using c#\PracticeMySql\PracticeMySql\obj\Debug\net6.0-windows\ref\PracticeMySql.dll
